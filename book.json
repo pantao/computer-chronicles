@@ -13,7 +13,12 @@
     "github",
     "github-buttons",
     "sharing-plus",
-    "splitter"
+    "splitter",
+    "image-captions",
+    "anchors",
+    "katex",
+    "book-summary-scroll-position-saver",
+    "prism"
   ],
   "pluginsConfig": {
     "fontSettings": {
