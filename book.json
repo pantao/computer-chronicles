@@ -1,0 +1,79 @@
+{
+  "output": null,
+  "generator": null,
+  "root": "src",
+  "title": "互联网史",
+  "description": "一部关于互联网的历史性巨作",
+  "lang": "zh",
+  "author": "大胡子农民工潘半仙",
+  "isbn": "",
+  "extension": null,
+  "plugins": [
+    "tbfed-pagefooter",
+    "github",
+    "github-buttons",
+    "sharing-plus",
+    "splitter"
+  ],
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "white",
+      "family": "PingFang SC, Lantinghei SC, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif",
+      "size": 1
+    },
+    "tbfed-pagefooter": {
+      "copyright": "版权所有 &copy; pantao.parcmg.com 2019",
+      "modify_label": "修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "github": {
+      "url": "https://github.com/pantao/wild-history-of-the-internet"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "pantao",
+          "repo": "wild-history-of-the-internet",
+          "type": "star",
+          "count": true,
+          "size": "small"
+        },
+        {
+          "user": "pantao",
+          "repo": "wild-history-of-the-internet",
+          "type": "follow",
+          "width": 120,
+          "count": true,
+          "size": "small"
+        }
+      ]
+    },
+    "sharing": {
+      "douban": true,
+      "qq": true,
+      "qzone": true,
+      "weibo": true
+    }
+  },
+  "variables": {},
+  "links": {
+    "sidebar": {
+      "首页": "https://wild-history-of-the-internet.parcmg.com",
+      "源码": "https://github.com/pantao/wild-history-of-the-internet"
+    },
+    "sharing": {}
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 12,
+    "paperSize": "a4",
+    "margin": {
+      "left": 72,
+      "right": 72,
+      "top": 36,
+      "bottom": 36
+    },
+    "headerTemplate": "_TITLE_ · _SECTION_",
+    "footerTemplate": "_PAGENUM_"
+  }
+}
