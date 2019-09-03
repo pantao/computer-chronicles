@@ -1,9 +1,9 @@
 {
   "output": "public",
-  "generator": null,
+  "name": null,
   "root": "src",
-  "title": "互联网狂野史",
-  "description": "一部关于互联网的史诗巨作",
+  "title": "计算机编年（野）史",
+  "description": "一部关于计算机的史诗巨作",
   "lang": "zh",
   "author": "大胡子农民工潘半仙",
   "isbn": "",
