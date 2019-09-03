@@ -32,20 +32,20 @@
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
     "github": {
-      "url": "https://github.com/pantao/wild-history-of-the-internet"
+      "url": "https://github.com/pantao/computer-chronicles"
     },
     "github-buttons": {
       "buttons": [
         {
           "user": "pantao",
-          "repo": "wild-history-of-the-internet",
+          "repo": "computer-chronicles",
           "type": "star",
           "count": true,
           "size": "small"
         },
         {
           "user": "pantao",
-          "repo": "wild-history-of-the-internet",
+          "repo": "computer-chronicles",
           "type": "follow",
           "width": 120,
           "count": true,
@@ -63,8 +63,8 @@
   "variables": {},
   "links": {
     "sidebar": {
-      "首页": "https://wild-history-of-the-internet.parcmg.com",
-      "源码": "https://github.com/pantao/wild-history-of-the-internet"
+      "首页": "https://computer-chronicles.parcmg.com",
+      "源码": "https://github.com/pantao/computer-chronicles"
     },
     "sharing": {}
   },
