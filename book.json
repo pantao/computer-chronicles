@@ -1,5 +1,5 @@
 {
-  "output.name": "public",
+  "output": "site",
   "root": "src",
   "title": "计算机编年（野）史",
   "description": "一部关于计算机的史诗巨作",
